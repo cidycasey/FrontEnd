@@ -303,12 +303,6 @@ Git是分布式版本控制系统，同一个Git仓库，可以分布到不同�
 1. 创建SSH Key。在用户主目录`C:\Users\CIDY CASEY\`下，看看有没有.ssh目录，如果有，再看看这个目录下有没有`id_rsa`和`id_rsa.pub`这两个文件，如果已经有了，可直接跳到下一步。如果没有，打开Shell（Windows下打开Git Bash），创建SSH Key。
 2. 你需要把邮件地址换成你自己的邮件地址，然后一路回车，使用默认值即可，由于这个Key也不是用于军事目的，所以也无需设置密码。
 
-```c
-ssh-keygen -t rsa -C "cidycasey@163.com"
-```
-
-![1570868180402](E:\MarkDown\FrontEnd\Git&Github\images\1570868180402.png)
-
  3. 登陆GitHub，打开“Account settings”，“SSH Keys”页面。然后，点“Add SSH Key”，填上任意Title【test】，在Key文本框里粘贴`id_rsa.pub`文件的内容。
 
 

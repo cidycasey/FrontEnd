@@ -6,7 +6,7 @@ Git是目前世界上最先进的分布式版本控制系统（没有之一）�
 
 **版本控制系统**
 
-![example](E:\MarkDown\FrontEnd\Git&Github\images\example.png)
+![example](images\example.png)
 
 ### Git 的诞生
 

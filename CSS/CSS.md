@@ -2,11 +2,11 @@
 
 ## css垂直居中
 
-![center](E:\MarkDown\FrontEnd\CSS\images\center.png)
+![center](images\center.png)
 
 ## css3弹性盒子属性
 
-![flexBox](E:\MarkDown\FrontEnd\CSS\media\flexBox-1572674197542.png)
+![flexBox](images\flexBox-1572674197542.png)
 
 ## css 的 z-index生效条件
 
@@ -27,17 +27,17 @@ ps: 通俗讲就是,当一个div的Z-index为整数时,它的子元素和外界�
 
 （2）盒模型： 内容(content)、填充(padding)、边界(margin)、 边框(border)。
 
-![boxW3C](E:\MarkDown\FrontEnd\CSS\images\boxW3C.png)
+![boxW3C](images\boxW3C.png)
 
 下面：IE盒模型
 
-![boxIE](E:\MarkDown\FrontEnd\CSS\images\boxIE.png)
+![boxIE](images\boxIE.png)
 
 ​		css3的box-sizing属性给了开发者选择盒模型解析方式的权利。W3C的盒模型方式被称为“content-box”，IE的被称为“border-box”，使用box-sizing: border-box;就是为了在设置有padding值和border值的时候不把宽度撑开。
 
 CSS伪元素
 
-![伪元素](E:\MarkDown\FrontEnd\CSS\images\伪元素.png)
+![伪元素](images\伪元素.png)
 
 ## 解释下CSS sprites，以及你要如何在页面或网站中使用它。
 
@@ -157,7 +157,7 @@ rgba()和opacity都能实现透明效果，但最大的不同是opacity作用于
 
 而rgba()只作用于元素的颜色或其背景色。（设置rgba透明的元素的子元素不会继承透明效果！）
 
-![optimize](E:\MarkDown\FrontEnd\CSS\images\optimize.png)
+![optimize](images\optimize.png)
 
 [前端网页性能最佳实践](https://www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html)
 

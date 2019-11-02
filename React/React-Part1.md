@@ -83,7 +83,7 @@
 
 #### 需求：点击列表表头，实现对应表格数据的排序
 
-![虚拟DOM引入图片](E:\MarkDown\FrontEnd\React\images\虚拟DOM引入图片.png)
+![虚拟DOM引入图片](images\虚拟DOM引入图片.png)
 
 1. 表格中数据从哪儿来：从数据库查询来的。
 

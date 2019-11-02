@@ -4,9 +4,7 @@
 
 [React Developer Tools - Chrome 扩展下载安装地址](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=zh-CN)
 
-![1570178514470](E:\MarkDown\FrontEnd\React\images\1570178514470.png)
-
-## 主要内容
+## 主要内容![1570178514470](images/1570178514470.png)
 
 1. 学习 创建组件的第二种方式
 2. 美化React组件的样式
